@@ -1,9 +1,15 @@
 ---
-title: "A post of Markdown elements"
+title: "First blog post - Astro"
 description: "This post is for testing and listing a number of different markdown elements"
-publishDate: "22 Feb 2023"
+publishDate: "19 Sep 2023"
+updatedDate: "19 Sep 2023"
+coverImage:
+  src: "./cover.png"
+  alt: "Astro build wallpaper"
 tags: ["test", "markdown"]
 ---
+
+This is for testing the Markdown Syntax of Astro content.
 
 ## This is a H2 Heading
 
