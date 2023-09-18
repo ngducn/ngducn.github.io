@@ -2,60 +2,8 @@
   <img alt="Astro Theme Cactus logo" src="https://github.com/chrismwilliams/astro-theme-cactus/assets/12715988/85aa0d3c-ef6a-44e2-954d-ef035b4f4315" width="70" />
 </div>
 <h1 align="center">
-  Astro Theme Cactus
+  Portfolio
 </h1>
-
-Astro Theme Cactus is a simple opinionated starter built with the Astro framework. Use it to create an easy-to-use blog or website.
-
-## Table Of Contents
-
-1. [Key Features](#key-features)
-2. [Demo](#demo-💻)
-3. [Quick start](#quick-start)
-4. [Preview](#preview)
-5. [Commands](#commands)
-6. [Configure](#configure)
-7. [Adding Posts](#adding-posts)
-   - [Frontmatter](#frontmatter)
-8. [Pagefind search](#pagefind-search)
-9. [Analytics](#analytics)
-10. [View Transitions](#view-transitions)
-11. [Deploy](#deploy)
-12. [Acknowledgment](#acknowledgment)
-
-## Key Features
-
-- Astro v3.0 Fast 🚀
-- View Transitions from [Astro](https://docs.astro.build/en/guides/view-transitions/)
-- TailwindCSS Utility classes
-- Accessible, semantic HTML markup
-- Responsive & SEO-friendly
-- Dark / Light mode, using Tailwind and CSS variables
-- [Astro Assets Integration](https://docs.astro.build/en/guides/assets/) for optimised images
-- MD & [MDX](https://docs.astro.build/en/guides/markdown-content/#mdx-only-features) posts
-- [Satori](https://github.com/vercel/satori) for creating open graph png images
-- Pagination
-- [Automatic RSS feed](https://docs.astro.build/en/guides/rss)
-- Shiki code syntax styling
-- Auto-generated [sitemap](https://docs.astro.build/en/guides/integrations-guide/sitemap/)
-- [Pagefind](https://pagefind.app/) static search library integration
-- [Astro Icon](https://github.com/natemoo-re/astro-icon) svg icon component
-
-## Demo 💻
-
-Check out the [Demo](https://astro-theme-cactus.netlify.app/), hosted on Netlify
-
-## Quick start
-
-[Create a new repo](https://github.com/chrismwilliams/astro-theme-cactus/generate) from this template.
-
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chrismwilliams/astro-theme-cactus) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchrismwilliams%2Fastro-theme-cactus&project-name=astro-theme-cactus)
-
-## Preview
-
-![Astro Theme Cactus in a light theme mode](https://github.com/chrismwilliams/astro-theme-cactus/assets/12715988/84c89d42-4525-4674-b10c-6d6ebdc06382)
-
-![Astro Theme Cactus in a dark theme mode](https://github.com/chrismwilliams/astro-theme-cactus/assets/12715988/e0e575e2-445f-4c2d-a812-b5b53d2d9031)
 
 ## Commands
 
@@ -157,10 +105,3 @@ This theme implements a default transition between routes with a fallback for un
 
 By default the site will be built (see [Commands](#commands) section above) to a `/dist` directory.
 
-## Acknowledgment
-
-This theme was inspired by [Hexo Theme Cactus](https://github.com/probberechts/hexo-theme-cactus)
-
-## License
-
-MIT
